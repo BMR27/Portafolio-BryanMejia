@@ -1,0 +1,13 @@
+{
+    "slug": "others",
+    "description": "Ingles",
+    "title": "Otros logros academicos",
+    "items": [
+        {
+            "name": "Universidad Boston",
+            "degree": "Idioma Ingles",
+            "score": "100"
+        }
+       
+    ]
+}

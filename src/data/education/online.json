@@ -1,0 +1,32 @@
+{
+    "slug": "online",
+    "title": "Cursos en Linea",
+    "description": "Cursos finalizados en plataformas de educacion en internet",
+    "items": [
+        {
+            "name": "Curso de Desarrollo Web con Blazor y .Net",
+            "url": "https://platzi.com/search/?search=Curso+de+Desarrollo+Web+con+Blazor+y+.Net"
+            
+        },
+        {
+            "name": "Curso de jQuery a JavaScript",
+            "url": "https://platzi.com/clases/jquery-js/"
+        },
+        {
+            "name": "Curso de Programación Orientada a Objetos: POO",
+            "url": "https://platzi.com/clases/oop/"
+        },
+        {
+            "name": "Curso de Angular JS 2015",
+            "url": "https://platzi.com/clases/angularjs-2015/"
+        },
+        {
+            "name": "Curso de PHP con Laravel",
+            "url": "https://platzi.com/clases/curso-php-laravel/"
+        },
+        {
+            "name": "Curso para crear una tienda en línea con PHP y Laravel 2016",
+            "url": "https://codigofacilito.com/cursos/ecommerce-php"
+        }
+    ]
+}

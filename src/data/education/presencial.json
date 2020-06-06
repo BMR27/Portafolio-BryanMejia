@@ -1,0 +1,22 @@
+{
+    "slug": "presencial",
+    "title": "Formacion Academica",
+    "description": "Formacion academica, grados de estudio e instituciones a las que asisti",
+    "items": [
+        {
+            "name": "Universidad Castro Carazo",
+            "degree": "Ingenieria en Sistemas",
+            "score": "95"
+        },
+        {
+            "name": "Fundacion Omar Dengo",
+            "degree": "Tecnico en Redes Cisco CCNA",
+            "score": "XX"
+        },
+        {
+            "name": "CTP Dos Cercas",
+            "degree": "Bachillerato",
+            "score": "XX"
+        }
+    ]
+}

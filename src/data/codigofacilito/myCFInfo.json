@@ -1,0 +1,32 @@
+
+
+{"data":{"email":"dmejia1204@gmail.com","username":"dmejia1204","certificates":[{"score":85, "code": "c493465a-7eca-4b32-9644-le7d5fdd6814",
+     "title":"Curso Basico de Javascript"},{"score":100, "code": "c493465a-7eca-4b32-9644-le7d5fdd6814",
+        "title":"Curso Profesional de .NET"},{"score":90, "code": "c493465a-7eca-4b32-9644-le7d5fdd6814",
+            "title":"Curso Tecnico de REACT"},{"score":80, "code": "c493465a-7eca-4b32-9644-le7d5fdd6814",
+                "title":"Curso Profesional de Angular"},{"score":84, "code": "c493465a-7eca-4b32-9644-le7d5fdd6814",
+                    "title":"Curso Profesional de SQL SERVER"},{"score":84, "code": "c493465a-7eca-4b32-9644-le7d5fdd6814",
+                    "title":"Curso Profesional de PHP"}],
+    "articles":[],"courses":[
+
+        {"title":"Curso de introducción a Ruby on Rails","progress":"0.0",
+            "url":"http://codigofacilito.com/courses/introduccion-rails"},
+           
+               
+        {"title":"Taller para integrar servicios de Google con React","progress":"0.0",
+            "url":"http://codigofacilito.com/courses/react-google-apis"},
+        
+        {"title":"Taller para consultar datos de una API con Vue","progress":"50.0",
+            "url":"http://codigofacilito.com/courses/rest-api-vue"},
+              
+        {"title":"Desarrrolla una tienda en línea con Laravel y Vue","progress":"33.0",
+            "url":"http://codigofacilito.com/courses/laravel-tienda-en-linea"},
+                
+        {"title":"Curso de Google Maps en Flutter","progress":"5.0",
+            "url":"http://codigofacilito.com/courses/google-maps-flutter"},
+             
+        {"title":"Crea un sitio personal con Gatsby","progress":"100.0",
+            "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"}],
+            
+        "finished_courses":[{"title":"Crea un sitio personal con Gatsby",
+            "url":"http://codigofacilito.com/courses/sitio-persional-gatsby"}]},"errors":[]}
